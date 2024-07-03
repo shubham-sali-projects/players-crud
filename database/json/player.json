@@ -1,0 +1,93 @@
+[
+    {
+      "name": "Virat Kohli",
+      "age": 33,
+      "role": "Batsman",
+      "runs": 7240,
+      "wickets": 4,
+      "country": "India",
+      "image": "https://example.com/virat_kohli.jpg"
+    },
+    {
+      "name": "Steve Smith",
+      "age": 32,
+      "role": "Batsman",
+      "runs": 7540,
+      "wickets": 12,
+      "country": "Australia",
+      "image": "https://example.com/steve_smith.jpg"
+    },
+    {
+      "name": "Kane Williamson",
+      "age": 31,
+      "role": "Batsman",
+      "runs": 6723,
+      "wickets": 28,
+      "country": "New Zealand",
+      "image": "https://example.com/kane_williamson.jpg"
+    },
+    {
+      "name": "Joe Root",
+      "age": 31,
+      "role": "Batsman",
+      "runs": 8243,
+      "wickets": 17,
+      "country": "England",
+      "image": "https://example.com/joe_root.jpg"
+    },
+    {
+      "name": "Rohit Sharma",
+      "age": 34,
+      "role": "Batsman",
+      "runs": 7148,
+      "wickets": 8,
+      "country": "India",
+      "image": "https://example.com/rohit_sharma.jpg"
+    },
+    {
+      "name": "Pat Cummins",
+      "age": 28,
+      "role": "Bowler",
+      "runs": 398,
+      "wickets": 172,
+      "country": "Australia",
+      "image": "https://example.com/pat_cummins.jpg"
+    },
+    {
+      "name": "Jasprit Bumrah",
+      "age": 28,
+      "role": "Bowler",
+      "runs": 21,
+      "wickets": 83,
+      "country": "India",
+      "image": "https://example.com/jasprit_bumrah.jpg"
+    },
+    {
+      "name": "Trent Boult",
+      "age": 32,
+      "role": "Bowler",
+      "runs": 138,
+      "wickets": 281,
+      "country": "New Zealand",
+      "image": "https://example.com/trent_boult.jpg"
+    },
+    {
+      "name": "Stuart Broad",
+      "age": 35,
+      "role": "Bowler",
+      "runs": 3362,
+      "wickets": 525,
+      "country": "England",
+      "image": "https://example.com/stuart_broad.jpg"
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "age": 34,
+      "role": "All-Rounder",
+      "runs": 3862,
+      "wickets": 210,
+      "country": "Bangladesh",
+      "image": "https://example.com/shakib_al_hasan.jpg"
+    }
+  ]
+  
